@@ -946,7 +946,7 @@ else:
 
 ---
 
-**📝 ÚKOL: Normádní formát výstupu**
+**📝 ÚKOL: Normální formát výstupu**
 
 Vytvoř program, který:
 1. Načte jméno pacienta (může obsahovat mezery na začátku/konci a být velkými písmeny)

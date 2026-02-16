@@ -270,7 +270,7 @@ titlecase = original_name.title()  # "Jan Novák"
 print(original_name)  # Stále "JAN NOVÁK"
 ```
 
-### ✅ Self-check: Rozumíš textovýcm řetězcům a datovým typům?
+### ✅ Self-check: Rozumíš textovým řetězcům a datovým typům?
 
 Než se vrhneme na praktické příklady, zkontroluj porozumění:
 

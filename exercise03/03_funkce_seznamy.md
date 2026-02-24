@@ -1,4 +1,4 @@
-﻿# CVIČENÍ 3: FUNKCE A SEZMANY
+﻿# CVIČENÍ 3: FUNKCE A SEZNAMY
 
 Algoritmizace a programování
 

@@ -1113,10 +1113,10 @@ Vytvoř program pro komplexní analýzu DNA sekvence s využitím funkcí.
 === ANALÝZA DNA ===
 Sekvence: ACGTTAGCTAGCTAGCTAACGTA
 Délka: 23 bp
-A: 8, C: 6, G: 5, T: 4
-GC obsah: 47.8%
+A: 7, C: 5, G: 5, T: 6
+GC obsah: 43.5%
 
-Motiv 'GCT' nalezen na pozicích: [4, 8, 12]
+Motiv 'GCT' nalezen na pozicích: [6, 10, 14]
 
 Komplementární řetězec: TGCAATCGATCGATCGATTGCAT
 ```
